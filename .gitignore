@@ -137,3 +137,15 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Cache files
+cache.json
+
+# Optional OS files
+.DS_Store
